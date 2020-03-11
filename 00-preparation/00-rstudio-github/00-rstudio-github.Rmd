@@ -1,0 +1,88 @@
+---
+title: "Uncoast Unconf Preparation"
+subtitle: "RStudio and GitHub"
+date: "2020-03-20"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Why are we doing this?
+
+--
+
+### We have only a few days together.
+
+--
+
+### We want you to be as ready as possible.
+
+---
+
+# If you are experienced with:
+
+ - R
+ - RStudio IDE
+ - git
+ - GitHub
+
+--
+
+### If you are happy with your set-up, no need to do anything to your computer.
+
+--
+
+### Please make sure you have access to your GitHub login and password.
+
+---
+
+# Goals for this week
+
+--
+
+### RStudio IDE
+
+- what version do you have?
+- if needed, update
+- **verification**: check the terminal
+
+--
+
+### GitHub
+
+- do you have an account? 
+- if needed, let's get one (need only a free account)
+- do you have access to your login credentials?
+- **verification**: say hello on a GitHub issue
+
+---
+class: inverse
+
+# Questions? Problems?
+
+--
+## If **you** are a part of Uncoast Unconf 2020:
+
+--
+### Check then, create a new GitHub issue:
+
+`https://github.com/uncoast-unconf/uu-2020-day-zero/issues`
+
+--
+## OR
+
+### Email Ian Lyttle at ian [dot] lyttle [at] se [dot] com
+
+---
+class: inverse, center, middle
+
+# Thanks, see you next week!
+
